@@ -1,1 +1,1 @@
-QUIZ-TIME
+Quiz time
